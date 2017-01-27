@@ -4,7 +4,7 @@
 
 |Package|Dev Release|Pre Release|Latest Release|
 |------|:--------:|:--------:|:--------:|
-|App.Metrics|[![MyGet Status](https://img.shields.io/myget/alhardy/v/App.Metrics.Extensions.Reservoirs.HdrHistogram.svg)](https://www.myget.org/feed/alhardy/package/nuget/App.Metrics.Extensions.Reservoirs.HdrHistogram)|[![NuGet Status](https://img.shields.io/nuget/vpre/App.Metrics.Extensions.Reservoirs.HdrHistogram.svg)](https://www.nuget.org/packages/AApp.Metrics.Extensions.Reservoirs.HdrHistogram/)|[![NuGet Status](https://img.shields.io/nuget/v/App.Metrics.Extensions.Reservoirs.HdrHistogram.svg)](https://www.nuget.org/packages/App.Metrics.Extensions.Reservoirs.HdrHistogram/)|
+|App.Metrics.Extensions.Reservoirs.HdrHistogram|[![MyGet Status](https://img.shields.io/myget/alhardy/v/App.Metrics.Extensions.Reservoirs.HdrHistogram.svg)](https://www.myget.org/feed/alhardy/package/nuget/App.Metrics.Extensions.Reservoirs.HdrHistogram)|[![NuGet Status](https://img.shields.io/nuget/vpre/App.Metrics.Extensions.Reservoirs.HdrHistogram.svg)](https://www.nuget.org/packages/AApp.Metrics.Extensions.Reservoirs.HdrHistogram/)|[![NuGet Status](https://img.shields.io/nuget/v/App.Metrics.Extensions.Reservoirs.HdrHistogram.svg)](https://www.nuget.org/packages/App.Metrics.Extensions.Reservoirs.HdrHistogram/)|
 
 ## What is it?
 
