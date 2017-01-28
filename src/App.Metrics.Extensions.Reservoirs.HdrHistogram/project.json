@@ -45,8 +45,8 @@
   },
   "packOptions": {
     "tags": [ "Sampling", "Histogram", "Reservoir" ],
-    "projectUrl": "https://github.com/alhardy/AppMetrics.Reporting",
-    "licenseUrl": "https://github.com/alhardy/AppMetrics.Reporting/blob/master/LICENSE",
+    "projectUrl": "https://github.com/alhardy/AppMetrics.Reservoirs",
+    "licenseUrl": "https://github.com/alhardy/AppMetrics.Reservoirs/blob/master/LICENSE",
     "iconUrl": "https://alhardy.github.io/app-metrics-docs/logo.png",
     "repository": {
       "type": "git",
