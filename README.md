@@ -1,6 +1,6 @@
 # App Metrics Sampling Reservoirs
 
-[![Official Site](https://img.shields.io/badge/site-appmetrics-blue.svg)](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) [![Build status](https://ci.appveyor.com/api/projects/status/btge7f16t99k8a6w?svg=true)](https://ci.appveyor.com/project/alhardy/https://ci.appveyor.com/project/alhardy/appmetrics-reservoirs/branch/master) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Coverage Status](https://coveralls.io/repos/github/alhardy/AppMetrics.Reservoirs/badge.svg?branch=master)](https://coveralls.io/github/alhardy/AppMetrics.Reservoirs?branch=master)
+[![Official Site](https://img.shields.io/badge/site-appmetrics-blue.svg)](https://alhardy.github.io/app-metrics-docs/getting-started/intro.html) [![Build status](https://ci.appveyor.com/api/projects/status/btge7f16t99k8a6w?svg=true)](https://ci.appveyor.com/project/alhardy/appmetrics-reservoirs/branch/master) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Coverage Status](https://coveralls.io/repos/github/alhardy/AppMetrics.Reservoirs/badge.svg?branch=master)](https://coveralls.io/github/alhardy/AppMetrics.Reservoirs?branch=master)
 
 |Package|Dev Release|Pre Release|Latest Release|
 |------|:--------:|:--------:|:--------:|
