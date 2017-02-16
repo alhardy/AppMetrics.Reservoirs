@@ -13,7 +13,7 @@
   "copyright": "Allan Hardy 2016",
   "description": "Original Project: https://github.com/etishor/Metrics.NET. This package just includes the HdrHistogram implemenation making it pluggable to App.Metrics",
   "dependencies": {    
-    "App.Metrics": "1.0.0-rc1"
+    "App.Metrics": "1.0.0-*"
   },
   "frameworks": {
     "netstandard1.6": {
@@ -54,5 +54,5 @@
     }
   },
   "title": "App.Metrics.Extensions.Reservoirs.HdrHistogram",
-  "version": "1.0.0-beta6"
+  "version": "1.0.0-beta7"
 }
